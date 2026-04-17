@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.example.tinyproxy-applet</id>
+  <name>Tinyproxy Applet</name>
+  <summary>Small COSMIC applet that shows Tinyproxy status</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <description>
+    <p>Tinyproxy Applet is a lightweight COSMIC panel applet that shows whether the Tinyproxy service is active.</p>
+  </description>
+  <launchable type="desktop-id">com.example.tinyproxy-applet.desktop</launchable>
+</component>

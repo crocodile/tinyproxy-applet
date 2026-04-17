@@ -3,6 +3,16 @@
 Small COSMIC panel applet that shows whether an existing `tinyproxy` service is running.
 It does not install, create, or configure a proxy service; it only shows the current status if one is already present on the system.
 
+## Screenshots
+
+Tinyproxy active:
+
+![Tinyproxy applet ON](assets/Screenshot_tinyproxy_ON.png)
+
+Tinyproxy inactive:
+
+![Tinyproxy applet OFF](assets/Screenshot_tinyproxy_OFF.png)
+
 ## What It Does
 
 - Shows a green icon when Tinyproxy is active

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Tinyproxy Applet
-Exec=tinyproxy-applet
-Type=Application
-Terminal=false
-Categories=Network;
-Icon=com.example.tinyproxy-applet

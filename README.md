@@ -18,7 +18,7 @@ Tinyproxy inactive:
 - Shows a green icon when Tinyproxy is active
 - Shows a red icon when Tinyproxy is inactive
 - Shows a hover tooltip with the current status
-- Polls `systemctl is-active tinyproxy` every 5 seconds
+- Subscribes to `systemd` over D-Bus and updates immediately when the unit state changes
 
 ## Requirements
 
